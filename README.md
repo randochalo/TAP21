@@ -1,2 +1,5 @@
-# TAP21
-Taproot Asset Protocol (TAP) 21 Specification &amp; Registry
+# Taproot Asset Protocol 21
+
+## List of Collectibles
+
+## Disclaimers
